@@ -1,0 +1,5 @@
+data format: gr431.tsp
+
+data section lists cities in geo coordinates
+
+python main.py datafile runtimes
